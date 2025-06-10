@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318652470961",
+    "project_id": "todolist-ivanderwilson",
+    "storage_bucket": "todolist-ivanderwilson.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318652470961:android:66b1cf9718c58d53d17490",
+        "android_client_info": {
+          "package_name": "com.example.todolistivanderwilson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-6dyb5roh6ejTuGxUYIGEvaE0R6zks7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
