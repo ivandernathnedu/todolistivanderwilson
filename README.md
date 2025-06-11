@@ -1,16 +1,22 @@
 # todolistivanderwilson
 
-A new Flutter project.
+Nama 
+1. Ivander Nathan Dananjaya (2390343056) 
+2. Wilson Raja Evander (2390343121)
 
-## Getting Started
+Judul 
+ToDolistIvanderWilson
 
-This project is a starting point for a Flutter application.
+Teknologi yang digunakan
+1. Visual Studio Code
+2. Firebase
 
-A few resources to get you started if this is your first Flutter project:
+Cara menjalankan aplikasi 
+Buka folder dalam Visual Studio Code lalu jalankan emulator, kalo di saya Medium Phone API 35, lalu pencet run and debug atau ketik "Flutter run" dalam terminal.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshot tampilan
+![alt text](<Screenshot 2025-06-10 182254.png>)
+![alt text](<Screenshot 2025-06-10 182319.png>)
+![alt text](<Screenshot 2025-06-10 182328.png>)
+![alt text](<Screenshot 2025-06-10 182337.png>)
+![alt text](<Screenshot 2025-06-10 182536.png>)
